@@ -1,0 +1,454 @@
+transvestiten 108 person
+abenteurer 247 person
+stierkämpfer 99 person
+stifler 207 person
+schwächling 378 person
+national 1024 person
+benutzer 104 person
+dieter 331 person
+schwächlinge 131 person
+leos 155 person
+schuldner 67 person
+fußabtreter 86 person
+optimist 163 person
+kämpfer 2174 person
+länger 15996 person
+chamäleon 143 person
+haben 742327 person
+nachbar 1921 person
+wassermann 139 person
+zwanghaft 144 person
+krüppel 911 person
+homo 556 person
+beobachter 543 person
+blondinen 271 person
+rothaarige 538 person
+relativ 869 person
+gerade 104130 person
+heterosexuell 64 person
+verheiratet 13411 person
+immun 632 person
+amateure 429 person
+lerner 94 person
+brünette 272 person
+homosexuell 465 person
+führer 3288 person
+schwul 4159 person
+ingenieur 1171 person
+feigling 3363 person
+sklave 1254 person
+krieger 3674 person
+nachbarn 5091 person
+tiger 3026 person
+wissenschaftler 3013 person
+kommunikator 120 person
+unschuldig 5469 person
+entertainer 123 person
+situation 8967 zustand
+commonwealth 103 zustand
+untätigkeit 65 zustand
+perfektion 491 zustand
+sowjets 365 zustand
+existenz 2030 zustand
+spaltung 91 zustand
+freiheit 7525 zustand
+gefühl 18285 zustand
+arbeitslosigkeit 223 zustand
+feindschaft 135 zustand
+abhängigkeit 228 zustand
+anstellung 294 zustand
+verbündete 668 zustand
+status 1440 zustand
+wesen 5722 zustand
+situationen 1051 zustand
+haufen 6986 sammlung
+sorten 347 sammlung
+charge 97 sammlung
+luftfahrt 76 sammlung
+paket 2274 sammlung
+flotte 2416 sammlung
+kombinationen 162 sammlung
+gesetz 8620 sammlung
+botanik 88 sammlung
+klasse 16595 sammlung
+galaxien 556 sammlung
+pakete 409 sammlung
+sets 148 sammlung
+kombination 1437 sammlung
+repertoire 122 sammlung
+daten 5246 sammlung
+flossen 331 ziffer
+quartett 125 ziffer
+phoebes 138 ziffer
+eins 42157 ziffer
+quint 198 ziffer
+fünf 33424 ziffer
+vier 31390 ziffer
+sechs 22454 ziffer
+trey 515 ziffer
+zwei 122625 ziffer
+zehe 77 ziffer
+trio 140 ziffer
+niners 94 ziffer
+triade 279 ziffer
+asse 299 ziffer
+zehen 1179 ziffer
+kindermädchen 823 frau
+amazonas 223 frau
+aschenputtel 216 frau
+freundin 29850 frau
+mädchen 72685 frau
+verführerin 78 frau
+flirt 172 frau
+breit 1626 frau
+brautjungfer 294 frau
+törtchen 320 frau
+herrin 1561 frau
+donnas 79 frau
+donna 598 frau
+hure 4686 frau
+geisha 157 frau
+bemühung 62 aktivität
+prozesse 221 aktivität
+solo 705 aktivität
+verfahren 2296 aktivität
+kreationen 67 aktivität
+spiel 7587 aktivität
+bemühungen 863 aktivität
+arbeiten 38510 aktivität
+hilft 13897 aktivität
+erholung 447 aktivität
+märkte 205 aktivität
+markt 3204 aktivität
+verwenden 3387 aktivität
+störung 3035 aktivität
+schutz 5464 aktivität
+aura 370 symptom
+schwindel 1024 symptom
+durchfall 448 symptom
+herzklopfen 186 symptom
+krampf 344 symptom
+sodbrennen 235 symptom
+schmerz 7959 symptom
+abszess 99 symptom
+entzündung 214 symptom
+husten 1402 symptom
+narbe 1437 symptom
+narben 1085 symptom
+flecken 1319 symptom
+fieber 3001 symptom
+quietschen 1778 lärm
+klappern 793 lärm
+boom 797 lärm
+brutzeln 90 lärm
+oink 90 lärm
+murren 76 lärm
+klatschen 736 lärm
+prall 95 lärm
+absturz 716 lärm
+crunch 208 lärm
+zischen 890 lärm
+donner 1423 lärm
+brüllen 1096 lärm
+rascheln 363 lärm
+risotto 133 gericht
+curry 338 gericht
+hackbraten 330 gericht
+pudding 732 gericht
+omelette 164 gericht
+fleischbällchen 190 gericht
+burritos 115 gericht
+couscous 116 gericht
+apfelmus 112 gericht
+haggis 68 gericht
+pizzen 180 gericht
+sushi 622 gericht
+pizza 3829 gericht
+suppe 3068 gericht
+grad 6853 eigentum
+konsistenz 91 eigentum
+modus 175 eigentum
+vertrauen 18459 eigentum
+ebene 2081 eigentum
+dinge 42560 eigentum
+eigenschaften 934 eigentum
+alter 32101 eigentum
+geruch 2851 eigentum
+spiritualität 78 eigentum
+stil 3124 eigentum
+anwesen 1190 eigentum
+stärke 3654 eigentum
+konzentration 1080 eigentum
+abdomen 101 körperteil
+nates 108 körperteil
+smalls 87 körperteil
+zurück 133326 körperteil
+gelenke 135 körperteil
+arsch 23823 körperteil
+hinter 37964 körperteil
+klein 12473 körperteil
+torso 106 körperteil
+schulter 3392 körperteil
+schienbein 159 körperteil
+bauch 4452 körperteil
+thorax 122 körperteil
+instrumente 775 gerät
+zange 452 gerät
+instrument 802 gerät
+sensor 211 gerät
+detektor 90 gerät
+magnete 76 gerät
+tricks 2407 gerät
+magnet 269 gerät
+deflektor 83 gerät
+wärmer 641 gerät
+fans 1644 gerät
+filter 414 gerät
+trick 4745 gerät
+piep 792 klang
+lärm 2643 klang
+twitter 387 klang
+ring 7839 klang
+klirren 930 klang
+klicken 635 klang
+ting 171 klang
+trampeln 129 klang
+klicks 205 klang
+tick 609 klang
+summen 1163 klang
+klopfen 5125 klang
+zing 81 klang
+popularität 103 qualität
+exzellenz 2668 qualität
+untreue 341 qualität
+leichtigkeit 208 qualität
+impotenz 84 qualität
+einfachheit 126 qualität
+komplexität 127 qualität
+überlegenheit 198 qualität
+glaubwürdigkeit 423 qualität
+unsicherheit 292 qualität
+schlecht 299 qualität
+heiligkeit 1145 qualität
+natur 6219 qualität
+reinheit 458 zustand
+ambiente 76 zustand
+brauchen 61791 zustand
+anchorage 70 zustand
+gefahr 13071 zustand
+immunität 655 zustand
+komfort 297 zustand
+zölibat 93 zustand
+absolution 205 zustand
+normalität 297 zustand
+unbehagen 180 zustand
+bedürfnisse 1049 zustand
+planetarium 105 gebäude
+schlachthof 175 gebäude
+wolkenkratzer 177 gebäude
+observatorium 136 gebäude
+hotel 13914 gebäude
+architektur 405 gebäude
+schlafsaal 210 gebäude
+gewächshaus 297 gebäude
+hotels 1421 gebäude
+restaurant 6223 gebäude
+häuser 3487 gebäude
+clubhaus 183 gebäude
+tier 6653 organismus
+parasiten 500 organismus
+plankton 137 organismus
+kreatur 1914 organismus
+mutant 196 organismus
+jemand 12815 organismus
+kreaturen 1431 organismus
+maskottchen 364 organismus
+parasit 364 organismus
+personen 3954 organismus
+mutation 360 organismus
+mutationen 120 organismus
+schuhkarton 109 struktur
+turm 1768 struktur
+brücke 7012 struktur
+ventil 390 struktur
+gehäuse 179 struktur
+muster 2145 struktur
+monument 176 struktur
+kreuzen 552 struktur
+concha 78 struktur
+stadion 744 struktur
+türme 291 struktur
+balkon 1061 struktur
+eunuch 109 mann
+tarzan 781 mann
+sirs 79 mann
+gentleman 2700 mann
+babu 87 mann
+galant 164 mann
+messieurs 264 mann
+kerl 36512 mann
+monsieur 12579 mann
+buster 434 mann
+witwer 304 mann
+adonis 167 mann
+unterdrücker 100 unangenehme person
+kriechen 1017 unangenehme person
+rotz 144 unangenehme person
+schleichen 883 unangenehme person
+zyniker 114 unangenehme person
+kurbel 113 unangenehme person
+arschloch 13441 unangenehme person
+snob 237 unangenehme person
+egoist 210 unangenehme person
+snobs 81 unangenehme person
+spuk 202 unangenehme person
+stinker 362 unangenehme person
+gefasel 97 nachricht
+humor 2639 nachricht
+petition 236 nachricht
+themen 707 nachricht
+unsinn 8340 nachricht
+bedeutungen 78 nachricht
+geschichte 33070 nachricht
+respektlosigkeit 151 nachricht
+bedeutung 4047 nachricht
+chiffre 82 nachricht
+geschichten 5943 nachricht
+information 3657 nachricht
+indium 248 metallisches element
+aluminium 252 metallisches element
+natrium 68 metallisches element
+magnesium 90 metallisches element
+titan 367 metallisches element
+kupfer 396 metallisches element
+kalium 106 metallisches element
+lithium 98 metallisches element
+wolfram 276 metallisches element
+eisen 1229 metallisches element
+kalzium 120 metallisches element
+siebzig 107 große ganzzahl
+dutzend 2969 große ganzzahl
+vierzig 477 große ganzzahl
+megs 66 große ganzzahl
+grand 1650 große ganzzahl
+sechzig 205 große ganzzahl
+achtzig 134 große ganzzahl
+milliarde 671 große ganzzahl
+fünfzig 696 große ganzzahl
+dreißig 702 große ganzzahl
+tausend 3783 große ganzzahl
+duplikat 124 artefakt
+americana 1005 artefakt
+einrichtungen 449 artefakt
+kegel 124 artefakt
+strukturen 236 artefakt
+oberflächen 66 artefakt
+dekoration 328 artefakt
+spielzeug 2287 artefakt
+tuch 1001 artefakt
+marker 204 artefakt
+textilien 68 artefakt
+tammy 793 stoff
+satin 111 stoff
+serge 486 stoff
+seide 738 stoff
+leinwand 737 stoff
+wolle 2283 stoff
+macintosh 88 stoff
+flanell 71 stoff
+samt 656 stoff
+taft 287 stoff
+georgette 117 stoff
+gerichtssaal 798 zimmer
+bibliothek 2510 zimmer
+badezimmer 2492 zimmer
+saloon 480 zimmer
+lobby 921 zimmer
+ballsaal 186 zimmer
+solarium 71 zimmer
+klassenzimmer 438 zimmer
+toilette 5043 zimmer
+schlafzimmer 4271 zimmer
+foyer 219 zimmer
+ecke 7019 bereich
+ecken 731 bereich
+terrasse 718 bereich
+spielplatz 547 bereich
+zentren 71 bereich
+zimmer 31727 bereich
+zuflucht 830 bereich
+palme 413 bereich
+offen 12623 bereich
+öffnet 3847 bereich
+szenen 1164 bereich
+festival 479 zeitraum
+vorgeschichte 529 zeitraum
+wochenenden 537 zeitraum
+dauer 932 zeitraum
+jahr 35092 zeitraum
+trimester 72 zeitraum
+blütezeit 77 zeitraum
+monate 14786 zeitraum
+phasen 286 zeitraum
+millennium 158 zeitraum
+nickerchen 1074 zeitraum
+marias 241 region
+innen 2709 region
+himmel 17755 region
+paradies 2205 region
+unbekannt 1603 region
+hölle 21656 region
+inferno 191 region
+eden 681 region
+bezirke 120 region
+bezirk 1324 region
+klee 110 kraut
+viola 253 kraut
+dill 130 kraut
+benni 96 kraut
+alexander 2399 kraut
+petersilie 163 kraut
+ingwer 141 kraut
+ananas 420 kraut
+fenchel 63 kraut
+spargel 202 kraut
+kurven 321 linie
+kurve 1037 linie
+seil 2691 linie
+eisenbahnen 79 linie
+quadrant 137 linie
+ränge 91 linie
+horizont 837 linie
+haaransatz 88 linie
+route 1482 linie
+achse 319 linie
+fiat 109 akt
+dekret 102 akt
+aktivität 802 akt
+ablehnung 339 akt
+aktion 1997 akt
+aktionen 641 akt
+kommunikation 1554 akt
+aktivitäten 1367 akt
+opfern 3113 akt
+produktion 1201 akt
+oktober 1735 gregorianischer kalendermonat
+juni 1933 gregorianischer kalendermonat
+august 2330 gregorianischer kalendermonat
+november 1586 gregorianischer kalendermonat
+marsch 1604 gregorianischer kalendermonat
+dezember 1558 gregorianischer kalendermonat
+julies 139 gregorianischer kalendermonat
+januar 1332 gregorianischer kalendermonat
+april 3315 gregorianischer kalendermonat
+februar 1250 gregorianischer kalendermonat
+unterlagen 2651 schreiben
+inschriften 66 schreiben
+tagebuch 2205 schreiben
+literatur 968 schreiben
+tagebücher 296 schreiben
+dokumentieren 210 schreiben
+abhandlung 180 schreiben
+absatz 592 schreiben
+bearbeitung 122 schreiben
+papiere 4326 schreiben
